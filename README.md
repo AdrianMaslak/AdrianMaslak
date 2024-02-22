@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Adrian Maslak and i'm hoping to be future software engineer
 
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Flutter 
 <!--
 **AdrianMaslak/AdrianMaslak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
