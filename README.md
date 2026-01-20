@@ -1,6 +1,5 @@
 Hi there, I'm Adrian.
 # 💫 About Me:
-🔭New APP<br>🌱 I’m currently learning Flutter<br>
 
 
 # 💻 Tech Stack:
